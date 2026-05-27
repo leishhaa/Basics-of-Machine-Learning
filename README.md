@@ -3,7 +3,7 @@ ML algorithms — supervised &amp; unsupervised
 # Basics of Machine Learning
 
 **Name:** Leisha Mehtani  
-**Internship:** Machine Learning Training Submission
+**Internship:** Machine Learning  Submission
 
 ## About
 This repository contains Python implementations of Machine Learning algorithms. It includes both supervised and 
